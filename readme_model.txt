@@ -1,0 +1,1 @@
+models/colorization_release_v2.caffemodel needs to be in folder
